@@ -3,8 +3,13 @@
 
  ## 👋 Hi, I'm Yongkang Xue 
  * 在校大学生,前端学习中,算法爱好者
- * 欢迎访问我的博客：![会思想的苇草](https://thinkingreedi.github.io/)
- * 前端学习之旅：![前端之旅](https://github.com/Thinkingreedi/Web001)
+
+ * 欢迎访问我的博客：<a href="https://thinkingreedi.github.io/)">会思想的苇草i</a>
+
+
+ * 前端开发学习之旅：<a href="https://github.com/Thinkingreedi/Front_end_development">前端之旅</a>
+
+
  * 日拱一卒，功不唐捐
 
 ---
@@ -44,7 +49,7 @@
 
 ## 💻 repository status
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?Thinkingreedi&show_icons=true&hide_border=true)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkingreedi&show_icons=true&theme=tokyonight)
 
 
 ## 👨‍💻 Common language
@@ -53,7 +58,7 @@
 
 ---
 
-Let's learn and make progress together😁✌
+**Let's learn and make progress together**✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
