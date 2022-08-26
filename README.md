@@ -4,7 +4,7 @@
  ## 👋 Hi, I'm Yongkang Xue 
  * 在校大学生,前端学习中,算法爱好者
 
- * 欢迎访问我的博客：<a href="https://thinkingreedi.github.io/)">会思想的苇草i</a>
+ * 欢迎访问我的博客：<a href="https://thinkingreedi.github.io">会思想的苇草i</a>
 
 
  * 前端开发学习之旅：<a href="https://github.com/Thinkingreedi/Front_end_development">前端之旅</a>
