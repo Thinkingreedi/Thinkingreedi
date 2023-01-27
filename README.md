@@ -51,8 +51,8 @@
 
 ## 👨‍💻 Common language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkingreedi&layout=compact)](https://github.com/Thinkingreedi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkingreedi&layout=compact)](https://github-readme-stats-ruby-one.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkingreedi&hide=html)](https://github.com/Thinkingreedi/github-readme-stats)
+
 ---
 
 **Let's learn and make progress together**✌
