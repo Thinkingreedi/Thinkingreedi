@@ -34,8 +34,6 @@
  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
- <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
- <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 </div>
 
 ## 📌 Other Languages I know
@@ -49,13 +47,12 @@
 
 ## 💻 repository status
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkingreedi&show_icons=true&theme=tokyonight)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkingreedi&show_icons=true&theme=radical)
 
 ## 👨‍💻 Common language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkingreedi&layout=compact)](https://github.com/Thinkingreedi/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkingreedi&layout=compact)](https://github-readme-stats-ruby-one.vercel.app)
 ---
 
 **Let's learn and make progress together**✌
