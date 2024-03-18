@@ -1,7 +1,7 @@
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%" align="right">
-
 
  ## 👋 Hi, I'm Yongkang Xue 
+ 
+ <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%" align="right">
  
  * **在校大学生,前端爱好者**
 
