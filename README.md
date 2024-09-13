@@ -3,7 +3,7 @@
  
  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%" align="right">
  
- * **一名互联网打工的前端吗喽u**
+ * **一名互联网打工的前端小吗喽～**
 
  * **欢迎访问我的博客：<a href="https://thinkingreedi.github.io">会思想的苇草i</a>**
 
