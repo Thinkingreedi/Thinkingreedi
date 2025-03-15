@@ -1,26 +1,21 @@
+## 👋 Hi, I'm Yongkang Xue
 
- ## 👋 Hi, I'm Yongkang Xue 
- 
  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%" align="right">
- 
- * **一名互联网打工的前端小吗喽～**
 
- * **欢迎访问我的博客：<a href="https://thinkingreedi.github.io">会思想的苇草i</a>**
+- **前端开发工程师**
 
+- **欢迎访问我的博客：<a href="https://thinkingreedi.github.io">会思想的苇草 i</a>**
 
- * **前端开发学习之旅：<a href="https://github.com/Thinkingreedi/Front_end_development">前端之旅</a>**
+- **前端开发学习之旅：<a href="https://github.com/Thinkingreedi/Front_end_development">前端之旅</a>**
 
-
- * **With each day's arduous effort,no achievement shall be in vain!**
+- **With each day's arduous effort,no achievement shall be in vain!**
 
 ---
-
-
 
 ## 🔨 Tech & Tools Preference
 
 <div display:flex>
- <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+ <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -40,15 +35,21 @@
 ## 📌 Other Languages I know
 
 <div display:flex>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"> 
-  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 </div>
 
 ## 💻 repository status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkingreedi&show_icons=true&theme=radical)
+- GitHub stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkingreedi&show_icons=true&theme=radical)
+
+- Visitor Count
+
+![My Visitor Count](https://profile-counter.glitch.me/{ubrong}/count.svg)
 
 ## 👨‍💻 Common language
 
